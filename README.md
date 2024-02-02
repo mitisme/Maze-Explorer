@@ -27,7 +27,7 @@ What things you need to install the software and how to install them:
 
 5. Get environment
    - run: flutter doctor
-   - fix X's depending on what system you are running
+   - fix X's and !'s depending on what system you are running
 
 4. Run the App
     flutter run
