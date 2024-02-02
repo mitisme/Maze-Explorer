@@ -40,5 +40,5 @@ What things you need to install the software and how to install them:
 # Authors
 Michael T. (mitisme)
 
-Acknowledgments
+# Acknowledgments
 Thank you to the dart and flutter developers.
