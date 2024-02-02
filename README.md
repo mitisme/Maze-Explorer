@@ -3,6 +3,8 @@ Maze Explorer is a Flutter application that allows users to generate and explore
 The app offers customizable settings for rows, columns, and exploration delay using text boxes.
 This is a good way to understand how DFS works out its problems as you can watch it explore the maze.
 
+![](https://github.com/mitisme/Maze-Explorer/blob/main/GIF%20Recording%202024-02-02%20at%209.08.28%20AM.gif)
+
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
