@@ -35,8 +35,8 @@ What things you need to install the software and how to install them:
 
 
 # Built With
-   Flutter - The UI toolkit used
-   Dart - Programming Language
+  Flutter - The UI toolkit used
+  Dart - Programming Language
 
 # Authors
 Michael T. (mitisme)
