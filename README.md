@@ -9,34 +9,33 @@ These instructions will get you a copy of the project up and running on your loc
 # Prerequisites
 What things you need to install the software and how to install them:
 
- - Flutter SDK
+ - Flutter SDK -> https://docs.flutter.dev/get-started/install
  - Dart SDK (comes with Flutter)
- - An IDE (Android Studio, VS Code, etc.) with Flutter and Dart plugins
+ - An IDE (Android Studio, VS Code, etc.) with Flutter and Dart plugins (VScode Download) -> https://code.visualstudio.com/download
  
 # Installing
- - A step-by-step series of examples that tell you how to get a development environment running:
 
 1. Clone the Repository
-    SSH Clone:
-    git clone git@github.com:mitisme/Maze-Explorer.git
+   - SSH Clone:
+   - git clone git@github.com:mitisme/Maze-Explorer.git
 
 3. Navigate to the project directory
-    cd into maze_gui_app where all of the files are found
+   - cd into maze_gui_app where all of the files are found
 
 4. Get Dependencies
-    flutter pub get
+   - flutter pub get
 
 5. Get environment
-    run: flutter doctor
-    fix X's depending on what system you are running
+   - run: flutter doctor
+   - fix X's depending on what system you are running
 
 4. Run the App
     flutter run
 
 
 # Built With
-  Flutter - The UI toolkit used
-  Dart - Programming Language
+ - Flutter - The UI toolkit used
+ - Dart - Programming Language
 
 # Authors
 Michael T. (mitisme)
