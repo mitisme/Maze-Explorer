@@ -17,15 +17,16 @@ What things you need to install the software and how to install them:
  - A step-by-step series of examples that tell you how to get a development environment running:
 
 1. Clone the Repository
-    git clone [URL to your repo]
+    SSH Clone:
+    git clone git@github.com:mitisme/Maze-Explorer.git
 
-2. Navigate to the project directory
-    cd [your project path]
+3. Navigate to the project directory
+    cd into maze_gui_app where all of the files are found
 
-3. Get Dependencies
+4. Get Dependencies
     flutter pub get
 
-4. Get environment
+5. Get environment
     run: flutter doctor
     fix X's depending on what system you are running
 
@@ -34,8 +35,8 @@ What things you need to install the software and how to install them:
 
 
 # Built With
-    Flutter - The UI toolkit used
-    Dart - Programming Language
+   Flutter - The UI toolkit used
+   Dart - Programming Language
 
 # Authors
 Michael T. (mitisme)
