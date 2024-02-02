@@ -30,8 +30,7 @@ What things you need to install the software and how to install them:
    - fix X's and !'s depending on what system you are running
 
 4. Run the App
-   - Run: flutter run
-   - and choose what environment to use.
+   - Run: flutter run -d [your environment(windows, chrome, etc.)]
 
 
 # Built With
